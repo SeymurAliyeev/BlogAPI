@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "x/nVfRxCtcU4ToWwS4nx9lflSJyWKf5dvwBvJHp0FDE=",
+  "Source": "BlogSolution.API",
+  "BasePath": "_content/BlogSolution.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

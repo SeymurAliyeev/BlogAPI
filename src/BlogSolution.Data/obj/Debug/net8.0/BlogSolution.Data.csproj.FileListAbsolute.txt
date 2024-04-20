@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\BlogSolution\src\BlogSolution.Data\bin\Debug\net8.0\BlogSolution.Data.deps.json
+C:\Users\user\Desktop\BlogSolution\src\BlogSolution.Data\bin\Debug\net8.0\BlogSolution.Data.dll
+C:\Users\user\Desktop\BlogSolution\src\BlogSolution.Data\bin\Debug\net8.0\BlogSolution.Data.pdb
+C:\Users\user\Desktop\BlogSolution\src\BlogSolution.Data\obj\Debug\net8.0\BlogSolution.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\BlogSolution\src\BlogSolution.Data\obj\Debug\net8.0\BlogSolution.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BlogSolution\src\BlogSolution.Data\obj\Debug\net8.0\BlogSolution.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\BlogSolution\src\BlogSolution.Data\obj\Debug\net8.0\BlogSolution.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BlogSolution\src\BlogSolution.Data\obj\Debug\net8.0\BlogSolution.Data.dll
+C:\Users\user\Desktop\BlogSolution\src\BlogSolution.Data\obj\Debug\net8.0\refint\BlogSolution.Data.dll
+C:\Users\user\Desktop\BlogSolution\src\BlogSolution.Data\obj\Debug\net8.0\BlogSolution.Data.pdb
+C:\Users\user\Desktop\BlogSolution\src\BlogSolution.Data\obj\Debug\net8.0\ref\BlogSolution.Data.dll
+C:\Users\user\Desktop\BlogSolution\src\BlogSolution.Data\bin\Debug\net8.0\BlogSolution.Data.runtimeconfig.json
+C:\Users\user\Desktop\BlogSolution\src\BlogSolution.Data\bin\Debug\net8.0\BlogSolution.Core.dll
+C:\Users\user\Desktop\BlogSolution\src\BlogSolution.Data\bin\Debug\net8.0\BlogSolution.Core.pdb
+C:\Users\user\Desktop\BlogSolution\src\BlogSolution.Data\obj\Debug\net8.0\BlogSolution.Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BlogSolution\src\BlogSolution.Data\obj\Debug\net8.0\BlogSolution.Data.csproj.CopyComplete
+C:\Users\user\Desktop\BlogSolution\src\BlogSolution.Data\obj\Debug\net8.0\BlogSolution.Data.genruntimeconfig.cache
